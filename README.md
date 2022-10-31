@@ -45,4 +45,10 @@ If you don't decide the container and storage id of the object yet, you can inpu
 
 <br/>
 
-Look at the right-upper side of program. You can see three white boxes. The boxes show existing storage id, container id (when one of storage id is double-clicked), and object id (when one of container id is double-clicked). If you eventually click the object id (in third box), the data of the object will be shown.  
+Look at the right-upper side of program. You can see three white boxes. The boxes show existing storage id, container id (when one of storage id is double-clicked), and object id (when one of container id is double-clicked). If you eventually click the object id (in third box), the data of the object will be shown.
+
+<br/>
+
+Look at the right-lower side of program. If you successfully search objects by using 'Search by name','Search by kinds', or 'Search by date' - especially, when you use date search engine, you need to input start and end date in the boxes (such as '20201001' in start, '20201225' in end), the objects' id filtered by search engine wil be shown in the bigger box. If you click it, the data of it will be shown.
+
+Created by. herrtane
